@@ -10,9 +10,9 @@ Incluye:
 - ✔️ Modelos de Machine Learning y Deep Learning
 
 ## 📊 Dataset Empleado
-**Dataset**: Titanic Survival Dataset
-**Fuente**: Seaborn library datasets
-**Descripción**: Datos de pasajeros del RMS Titanic incluyendo información demográfica, clase de boleto, ubicación y estado de supervivencia.
+- **Dataset**: Titanic Survival Dataset
+- **Fuente**: Seaborn library datasets
+- **Descripción**: Datos de pasajeros del RMS Titanic incluyendo información demográfica, clase de boleto, ubicación y estado de supervivencia.
 
 **Características principales**: 891 registros de pasajeros - 12 variables (demográficas, socioeconómicas, ubicación)
 
