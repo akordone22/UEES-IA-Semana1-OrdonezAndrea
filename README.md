@@ -76,10 +76,12 @@ Archivo `requirements.txt` incluido para garantizar la correcta ejecución de lo
 ## Resultados principales
 
 - Las mujeres presentaron mayor tasa de supervivencia a diferencia de los hombres.
+![seaborn](images/seaborn_estadisticos.png)
 - La edad y la tarifa están correlacionadas fuertemente con la sobrevivencia
+![correlacion](images/matplotlib_avanzados.png)
 - Así también los pasajeros de primera clase tuvieron mayor probabilidad de sobrevivencia.
 - Los pasajeros de primera clase tuvieron mejores probabilidades de supervivencia
-![Logo del proyecto](images/matplotlib_basicos.png)
+![descriptivos](images/matplotlib_basicos.png)
 
 ---
 
