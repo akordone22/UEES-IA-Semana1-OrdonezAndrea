@@ -13,8 +13,7 @@ Incluye:
 - **Dataset**: Titanic Survival Dataset
 - **Fuente**: Seaborn library datasets
 - **Descripción**: Datos de pasajeros del RMS Titanic incluyendo información demográfica, clase de boleto, ubicación y estado de supervivencia.
-
-**Características principales**: 891 registros de pasajeros - 12 variables (demográficas, socioeconómicas, ubicación)
+- **Características principales**: 891 registros de pasajeros - 12 variables (demográficas, socioeconómicas, ubicación)
 
 ---
 
@@ -84,7 +83,7 @@ Archivo `requirements.txt` incluido para garantizar la correcta ejecución de lo
 
 ---
 
-## 📌 Autor
+## 📌 Autores
 **Nombre**: César Cabrera, Ana Lucía Espinoza, Andrea Ordoñez, Andrea Tapia  
 **Email**: cesar.cabrerav@uees.edu.ec - ana.espinozaa@uees.edu.ec - andrea.ordonezr@uees.edu.ec - andrea.tapian@uees.edu.ec
 
