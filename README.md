@@ -1,5 +1,4 @@
-# UEES-IA-Semana1-Grupo 7
-# 🧠 UEES – Inteligencia Artificial  
+# 🧠 UEES - Inteligencia Artificial - Grupo 7
 ## 📚 Laboratorio Semana 1  
 Este repositorio contiene el desarrollo completo del **Laboratorio de la Semana 1** de la materia de **Inteligencia Artificial – UEES**.
 Laboratorio práctico de Inteligencia Artificial con Python: 4 notebooks explorando NumPy, Pandas, visualización de datos, Machine Learning y Deep Learning usando el Dataset: Titanic.
