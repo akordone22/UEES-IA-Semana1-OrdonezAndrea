@@ -1,15 +1,21 @@
-# UEES-IA-Semana1-OrdonezAndrea
+# UEES-IA-Semana1-Grupo 7
 # 🧠 UEES – Inteligencia Artificial  
 ## 📚 Laboratorio Semana 1  
-### Andrea Tapia Nicolalde
-
 Este repositorio contiene el desarrollo completo del **Laboratorio de la Semana 1** de la materia de **Inteligencia Artificial – UEES**.
+Laboratorio práctico de Inteligencia Artificial con Python: 4 notebooks explorando NumPy, Pandas, visualización de datos, Machine Learning y Deep Learning usando el Dataset: Titanic.
 
 Incluye:
 - ✔️ 4 notebooks principales desarrollados en Google Colab  
 - ✔️ Datasets utilizados en los ejercicios  
 - ✔️ Visualizaciones realizadas  
 - ✔️ Modelos de Machine Learning y Deep Learning
+
+## 📊 Dataset Empleado
+**Dataset**: Titanic Survival Dataset
+**Fuente**: Seaborn library datasets
+**Descripción**: Datos de pasajeros del RMS Titanic incluyendo información demográfica, clase de boleto, ubicación y estado de supervivencia.
+
+**Características principales**: 891 registros de pasajeros - 12 variables (demográficas, socioeconómicas, ubicación)
 
 ---
 
@@ -55,22 +61,32 @@ Incluye:
 - Evaluación del modelo  
 
 ---
+## Instalación y Configuración
 
-## 📊 Datasets utilizados:
-- **Iris Dataset** – Clasificación multiclase  
-- **Titanic Dataset** – Predicción de supervivencia  
-- **Wine Dataset** – Clasificación de vinos  
-- **Digits Dataset** – Reconocimiento de dígitos  
-- **Boston Housing (sintético)** – Regresión  
+### Prerrequisitos
+- Python 3.7 o superior
+- Google Colab o Jupyter Notebook
+- Acceso a internet para descarga de datasets
+
+### 🛠️ Requerimientos
+Archivo `requirements.txt` incluido para garantizar la correcta ejecución de los notebooks
 
 ---
 
-## 🛠️ Requerimientos
-Archivo `requirements.txt` incluido para garantizar la correcta ejecución de los notebooks.
+## Resultados principales
+
+- Las mujeres presentaron mayor tasa de supervivencia a diferencia de los hombres.
+- La edad y la tarifa están correlacionadas fuertemente con la sobrevivencia
+- Así también los pasajeros de primera clase tuvieron mayor probabilidad de sobrevivencia.
+- Los pasajeros de primera clase tuvieron mejores probabilidades de supervivencia
+![Logo del proyecto](images/matplotlib_basicos.png)
 
 ---
 
 ## 📌 Autor
-Andrea Tapian  
-Universidad de Especialidades Espíritu Santo (UEES)  
-Materia: Inteligencia Artificial  
+**Nombre**: César Cabrera, Ana Lucía Espinoza, Andrea Ordoñez, Andrea Tapia  
+**Email**: cesar.cabrerav@uees.edu.ec - ana.espinozaa@uees.edu.ec - andrea.ordonezr@uees.edu.ec - andrea.tapian@uees.edu.ec
+
+**Institución**: Universidad Espíritu Santo - UEES  
+**Programa**: Maestría en Inteligencia de Negocios y Ciencia de Datos  
+**Curso**: Inteligencia Artificial
